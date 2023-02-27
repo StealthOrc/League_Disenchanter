@@ -4,6 +4,8 @@
 
 A basic AutoHotkey script to disenchant Champion shards in League of Legends.
 
+<p><img src="Example.gif"></p>
+
 Hotkeys:<br/>
 Windows Key+F2: Start the Script<br/>
 Windows Key+F3: Toggle: Stop/Resume Script<br/>
